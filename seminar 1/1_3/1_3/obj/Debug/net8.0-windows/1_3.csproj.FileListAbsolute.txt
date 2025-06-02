@@ -1,0 +1,16 @@
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\bin\Debug\net8.0-windows\1_3.exe
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\bin\Debug\net8.0-windows\1_3.deps.json
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\bin\Debug\net8.0-windows\1_3.runtimeconfig.json
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\bin\Debug\net8.0-windows\1_3.dll
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\bin\Debug\net8.0-windows\1_3.pdb
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\_1_3.Form1.resources
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.csproj.GenerateResource.cache
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.AssemblyInfoInputs.cache
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.AssemblyInfo.cs
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.dll
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\refint\1_3.dll
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.pdb
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\1_3.genruntimeconfig.cache
+C:\Users\Basceanu Adrian Stef\source\repos\1_3\1_3\obj\Debug\net8.0-windows\ref\1_3.dll
