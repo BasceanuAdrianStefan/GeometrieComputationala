@@ -1,0 +1,22 @@
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\bin\Debug\seminar11.exe.config
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\bin\Debug\seminar11.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\bin\Debug\seminar11.pdb
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\seminar11.pdb
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S11\seminar11\seminar11\obj\Debug\Traingulare.Diagonale.Form1.resources
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.Properties.Resources.resources
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.GenerateResource.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.exe
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\obj\Debug\seminar11.Form1.resources
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\bin\Debug\seminar11.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\bin\Debug\seminar11.exe
+C:\Users\Basceanu Adrian Stef\Desktop\S11\seminar11\seminar11\bin\Debug\seminar11.pdb

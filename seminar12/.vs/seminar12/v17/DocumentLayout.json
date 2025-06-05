@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Basceanu Adrian Stef\\Documents\\GitHub\\GeometrieComputationala\\seminar12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C9EA6-9EDF-4511-A902-908DF120C133}|seminar12\\seminar12.csproj|c:\\users\\basceanu adrian stef\\documents\\github\\geometriecomputationala\\seminar12\\seminar12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C9EA6-9EDF-4511-A902-908DF120C133}|seminar12\\seminar12.csproj|solutionrelative:seminar12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C9EA6-9EDF-4511-A902-908DF120C133}|seminar12\\seminar12.csproj|C:\\Users\\Basceanu Adrian Stef\\Documents\\GitHub\\GeometrieComputationala\\seminar12\\seminar12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC2C9EA6-9EDF-4511-A902-908DF120C133}|seminar12\\seminar12.csproj|solutionrelative:seminar12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Basceanu Adrian Stef\\Documents\\GitHub\\GeometrieComputationala\\seminar12\\seminar12\\Form1.cs",
+              "RelativeDocumentMoniker": "seminar12\\Form1.cs",
+              "ToolTip": "C:\\Users\\Basceanu Adrian Stef\\Documents\\GitHub\\GeometrieComputationala\\seminar12\\seminar12\\Form1.cs",
+              "RelativeToolTip": "seminar12\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv2MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:18:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Basceanu Adrian Stef\\Documents\\GitHub\\GeometrieComputationala\\seminar12\\seminar12\\Form1.cs",
+              "RelativeDocumentMoniker": "seminar12\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\GEOMETRIE COMPUTATIONALA\\S12\\seminar12\\seminar12\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ASUS\\OneDrive\\Desktop\\GEOMETRIE COMPUTATIONALA\\S12\\seminar12\\seminar12\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:18:29.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

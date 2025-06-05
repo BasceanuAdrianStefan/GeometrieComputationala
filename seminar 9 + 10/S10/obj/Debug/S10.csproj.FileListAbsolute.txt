@@ -1,0 +1,21 @@
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\bin\Debug\S10.exe.config
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\bin\Debug\S10.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\bin\Debug\S10.pdb
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S10\obj\Debug\S10.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\bin\Debug\S10.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\bin\Debug\S10.exe
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\bin\Debug\S10.pdb
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.exe.config
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.Form1.resources
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.Properties.Resources.resources
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.csproj.GenerateResource.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.exe
+C:\Users\Basceanu Adrian Stef\Desktop\S9\S9_S10\S10\obj\Debug\S10.pdb

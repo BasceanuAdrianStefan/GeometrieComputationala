@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\seminar10\obj\Debug\seminar10.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\seminar10\obj\Debug\seminar10.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\seminar10\obj\Debug\seminar10.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\seminar10\obj\Debug\seminar10.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\seminar10\obj\Debug\seminar10.csproj.CoreCompileInputs.cache

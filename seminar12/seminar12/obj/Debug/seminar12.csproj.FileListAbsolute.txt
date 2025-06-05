@@ -1,0 +1,21 @@
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\bin\Debug\seminar12.exe.config
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\bin\Debug\seminar12.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\bin\Debug\seminar12.pdb
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S12\seminar12\seminar12\obj\Debug\seminar12.pdb
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\bin\Debug\seminar12.exe.config
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\bin\Debug\seminar12.exe
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\bin\Debug\seminar12.pdb
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.csproj.AssemblyReference.cache
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.exe.config
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.Form1.resources
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.Properties.Resources.resources
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.csproj.GenerateResource.cache
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.csproj.CoreCompileInputs.cache
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.exe
+C:\Users\Basceanu Adrian Stef\Documents\GitHub\GeometrieComputationala\seminar12\seminar12\obj\Debug\seminar12.pdb

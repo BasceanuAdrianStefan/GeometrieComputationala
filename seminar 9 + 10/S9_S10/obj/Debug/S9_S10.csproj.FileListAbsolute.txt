@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\bin\Debug\S9_S10.exe.config
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\bin\Debug\S9_S10.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\bin\Debug\S9_S10.pdb
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.exe
+C:\Users\ASUS\OneDrive\Desktop\GEOMETRIE COMPUTATIONALA\S9\S9_S10\S9_S10\obj\Debug\S9_S10.pdb
